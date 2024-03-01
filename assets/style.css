@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+}
+header{
+    margin: 0 auto;
+    text-align: center;
+    
+}
+main {
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.logo {
+    max-width: 20%;
+}
+hr {
+    border:solid rgb(236 236 142) 1px;
+    width: 100%; 
+    margin-bottom: 0px;
+}
+span {
+    font-weight: bold;
+
+}
+.sfondo {
+    background-color: rgb(248, 248, 233) ;
+    background-size: 50%;
+    margin-top: 0px;
+    height: 50px;
+    padding: 1px;
+}
+h1 {
+    text-align: center;
+}
+.focaccia {
+    width: 100%;
+    text-align: center;
+    display: block;
+    
+}
+.container{
+    text-align: center;
+    color: grey ;
+}
+span1{
+    color: red;
+}
+.bold{
+    font-weight: bold;
+}
+footer{
+    margin: 0 auto;
+    
+    width: 700px;
+    
+}
+.align{
+    margin-left: 40px;
+}
